@@ -9,7 +9,7 @@ const ResumeHeader = ({ currentProfile, hardcodedContactInfo, profileKeys, curre
             <div className='header-title-and-selector'>
                 <div className='header-title-block'>
                     <h1>
-                        {name}
+                        {name} Testing Auto Deploy
                     </h1>
                 </div>
                 {/* Profile Selector */}
